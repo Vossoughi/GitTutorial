@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("New Line")
         print("Hello world!")
+        print("Third print")
     }
 
 }
